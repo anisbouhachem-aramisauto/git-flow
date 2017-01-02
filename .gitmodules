@@ -1,0 +1,3 @@
+[submodule "git-flow-submodule"]
+	path = shared/sub1
+	url = git@github.com:anisbouhachem-aramisauto/git-flow-submodule.git
