@@ -1,3 +1,6 @@
-[submodule "plugin/test"]
-	path = plugin/test
+[submodule "plugins"]
+	path = plugins
+	url = git@github.com:anisbouhachem-aramisauto/git-flow-submodule.git
+[submodule "vendor/sumodule"]
+	path = vendor/sumodule
 	url = git@github.com:anisbouhachem-aramisauto/git-flow-submodule.git
